@@ -25,6 +25,15 @@ I'm an incoming student pursuing a Master in Software Engineering 🎓 from the 
 - 📰 &nbsp; Reading & writing tech blogs whenever possible.
 - 🍕 &nbsp; meetups & tech events.
 
+### 🔨 Languages and Tools:
+<a href="https://www.java.com" target="_blank"><img align="left" alt="Java" height ="42px" src="https://github.com/rahul-jha98/README_icons/blob/main/language_and_tools/square/java/java.svg"></a>
+<a href="https://spring.io/" target="_blank"> <img src="https://github.com/EstellaHuang/README_icons/blob/main/language_and_tools/square/spring/spring.svg" align="left" alt="git" height='42px'/> </a>
+<a href="https://git-scm.com/" target="_blank"> <img src="https://github.com/rahul-jha98/README_icons/blob/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
+<a href="https://www.rabbitmq.com/getstarted.html" target="_blank"> <img src="https://github.com/rahul-jha98/README_icons/blob/main/language_and_tools/square/rabbitmq/rabbitmq.svg" align="left" alt="git" height='42px'/> </a>
+<a href="https://www.docker.com/" target="_blank"> <img src="https://github.com/EstellaHuang/README_icons/blob/main/language_and_tools/square/docker/docker.svg" align="left" alt="git" height='42px'/> </a>
+<a href="" target="_blank"> <img src="https://github.com/EstellaHuang/README_icons/blob/main/language_and_tools/square/html/html.svg" align="left" alt="git" height='42px'/> </a>
+
+<br>
 
 ### Projects and Dev Stuffs:
 
