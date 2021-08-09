@@ -5,11 +5,11 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=EstellaHuang/estellahuang&style=flat-square&color=0088cc)
 
-I'm an incoming student pursuing a Master in Software Engineering 🎓 from the University of California, Irvine 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Backend Software Development 🕸️ , Data Structures and Algorithms 🤓.  Before I pursue my master's degree, I worked for about four years in Shanghai, China as a software engineer, so If you want to know things like technical solutions to common problems or working environments of Shanghai, Please feel free to contact me!
+I'm an incoming graduate student 🎓 in software engineering at the University of California, Irvine 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Backend Software Development 🕸️ , Data Structures and Algorithms 🤓.  Before pursuing my master's degree, I worked for about four years in Shanghai, China as a software engineer, so If you want to know things like technical solutions to common problems or working environments of Shanghai, Please feel free to contact me!
 
 <img align="right" height="250" width="375" alt="" src="https://media.giphy.com/media/137EaR4vAOCn1S/giphy.gif" />
 
-### Talking about Personal Stuffs:
+### 🧐 More About Me:
 
 - 🛠 &nbsp; I’m currently working with Java, Springboot, Mybatis, <br /> Maven, Redis, Elasticsearch, etc.
 - 🚀 &nbsp; I’m currently learning Backend Software Development.
@@ -33,25 +33,40 @@ I'm an incoming student pursuing a Master in Software Engineering 🎓 from the 
 <a href="https://www.docker.com/" target="_blank"> <img src="https://github.com/EstellaHuang/README_icons/blob/main/language_and_tools/square/docker/docker.svg" align="left" alt="git" height='42px'/> </a>
 <a href="" target="_blank"> <img src="https://github.com/EstellaHuang/README_icons/blob/main/language_and_tools/square/html/html.svg" align="left" alt="git" height='42px'/> </a>
 
-<br>
+<br/>
+<br/>
+<!-- ### Projects and Dev Stuffs: -->
+<!-- <summary> <b>⚡ Github Stats</b> </summary> -->
 
-### Projects and Dev Stuffs:
-
-<details>	
-  <summary><b>⚡ Github Stats</b></summary>
-	<br />
+### ⚡ Github Stats:
+<!-- <table>
+<tr>
+<td><img height="180em" src="https://github-readme-stats.vercel.app/api?username=estellahuang&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /></td>
+<td><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=estellahuang&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/></td>
+</tr>
+</table> -->
+	
+<div>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=estellahuang&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=estellahuang&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+</div>	
+<br/>
+	
+<!-- <details>	
+<summary> <b>⚡ Github Stats</b> </summary>
+  <br />
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=estellahuang&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=estellahuang&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
-</details>
+</details> -->
 
 
-<details>	
+<!-- <details>	
   <summary><b>☄️ Github Streaks</b></summary>
 
   <br />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=estellahuang&hide_border=true" />
-</details>
-<details>	
+</details> -->
+<!-- <details>	
   <br />
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
   	  <li><b>OS:</b> macOS Mojave </li>
@@ -60,7 +75,9 @@ I'm an incoming student pursuing a Master in Software Engineering 🎓 from the 
 	    <li><b>Terminal: </b> iTerm </li>
 	    <li><b>Code Editor:</b> IntelliJ IDEA</li>
 	    <br />
-</details>
+</details> -->
+
+
 <!--
 **EstellaHuang/estellahuang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
