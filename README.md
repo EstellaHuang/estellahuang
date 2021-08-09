@@ -16,7 +16,7 @@ I'm an incoming student pursuing a Master in Software Engineering 🎓 from the 
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/EstellaHuang).
 - 💬 &nbsp; Ask me about anything [here](https://github.com/EstellaHuang/estellahuang/issues/1)! I am happy to help.
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Java.
-- 📫 &nbsp; How to reach me: huangyuxincs@163.com.
+- 📫 &nbsp; How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yuxin-huang-666lucky).
 - 📝 &nbsp; Checkout my [Resume]().
 
 ### My Absolute Favorites:
@@ -30,8 +30,7 @@ I'm an incoming student pursuing a Master in Software Engineering 🎓 from the 
 
 <details>	
   <summary><b>⚡ Github Stats</b></summary>
-
-  <br />
+	<br />
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=estellahuang&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=estellahuang&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </details>
