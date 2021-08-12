@@ -1,9 +1,9 @@
-## Hey 👋, I'm [Yuxin Huang](https://github.com/EstellaHuang/)
+## Hey 👋, I'm [Yuxin Huang](https://github.com/yx-hh/)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yuxin-huang-666lucky)
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://estellahuang.github.io/)
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://yx-hh.github.io/)
 
-### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=EstellaHuang/estellahuang&style=flat-square&color=0088cc)
+### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=yx-hh/yx-hh&style=flat-square&color=0088cc)
 
 I'm an incoming graduate student 🎓 in software engineering at the University of California, Irvine 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Backend Software Development 🕸️ , Data Structures and Algorithms 🤓.  Before pursuing my master's degree, I worked for about four years in Shanghai, China as a software engineer, so If you want to know things like technical solutions to common problems or working environments of Shanghai, Please feel free to contact me!
 
@@ -13,8 +13,8 @@ I'm an incoming graduate student 🎓 in software engineering at the University 
 
 - 🛠 &nbsp; I’m currently working with Java, Springboot, Mybatis, <br /> Maven, Redis, Elasticsearch, etc.
 - 🚀 &nbsp; I’m currently learning Backend Software Development.
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/EstellaHuang).
-- 💬 &nbsp; Ask me about anything [here](https://github.com/EstellaHuang/estellahuang/issues/1)! I am happy to help.
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/yx-hh).
+- 💬 &nbsp; Ask me about anything [here](https://github.com/yx-hh/yx-hh/issues/1)! I am happy to help.
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Java.
 - 📫 &nbsp; How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yuxin-huang-666lucky).
 - 📝 &nbsp; Checkout my [Resume]().
@@ -27,11 +27,11 @@ I'm an incoming graduate student 🎓 in software engineering at the University 
 
 ### 🔨 Languages and Tools:
 <a href="https://www.java.com" target="_blank"><img align="left" alt="Java" height ="42px" src="https://github.com/rahul-jha98/README_icons/blob/main/language_and_tools/square/java/java.svg"></a>
-<a href="https://spring.io/" target="_blank"> <img src="https://github.com/EstellaHuang/README_icons/blob/main/language_and_tools/square/spring/spring.svg" align="left" alt="git" height='42px'/> </a>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://github.com/rahul-jha98/README_icons/blob/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
-<a href="https://www.rabbitmq.com/getstarted.html" target="_blank"> <img src="https://github.com/rahul-jha98/README_icons/blob/main/language_and_tools/square/rabbitmq/rabbitmq.svg" align="left" alt="git" height='42px'/> </a>
-<a href="https://www.docker.com/" target="_blank"> <img src="https://github.com/EstellaHuang/README_icons/blob/main/language_and_tools/square/docker/docker.svg" align="left" alt="git" height='42px'/> </a>
-<a href="" target="_blank"> <img src="https://github.com/EstellaHuang/README_icons/blob/main/language_and_tools/square/html/html.svg" align="left" alt="git" height='42px'/> </a>
+<a href="https://spring.io/" target="_blank"> <img src="https://github.com/yx-hh/README_icons/blob/main/language_and_tools/square/spring/spring.svg" align="left" alt="git" height='42px'/> </a>
+<a href="https://git-scm.com/" target="_blank"> <img src="https://github.com/yx-hh/README_icons/blob/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
+<a href="https://www.rabbitmq.com/getstarted.html" target="_blank"> <img src="https://github.com/yx-hh/README_icons/blob/main/language_and_tools/square/rabbitmq/rabbitmq.svg" align="left" alt="git" height='42px'/> </a>
+<a href="https://www.docker.com/" target="_blank"> <img src="https://github.com/yx-hh/README_icons/blob/main/language_and_tools/square/docker/docker.svg" align="left" alt="git" height='42px'/> </a>
+<a href="" target="_blank"> <img src="https://github.com/yx-hh/README_icons/blob/main/language_and_tools/square/html/html.svg" align="left" alt="git" height='42px'/> </a>
 
 <br/>
 <br/>
@@ -47,8 +47,8 @@ I'm an incoming graduate student 🎓 in software engineering at the University 
 </table> -->
 	
 <div>
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=estellahuang&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-<img height="160em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=estellahuang&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=yx-hh&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+<img height="160em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=yx-hh&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </div>	
 <br/>
 	
