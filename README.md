@@ -5,7 +5,7 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=yx-hh/yx-hh&style=flat-square&color=0088cc)
 
-I'm an incoming graduate student 🎓 in software engineering at the University of California, Irvine 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Backend Software Development 🕸️ , Data Structures and Algorithms 🤓.  Before pursuing my master's degree, I worked for about four years in Shanghai, China as a software engineer, so If you want to know things like technical solutions to common problems or working environments of Shanghai, Please feel free to contact me!
+I'm a graduate student 🎓 in software engineering at the University of California, Irvine 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Backend Software Development 🕸️ , Data Structures and Algorithms 🤓.  Before pursuing my master's degree, I worked for about four years in Shanghai, China as a software engineer, so If you want to know things like technical solutions to common problems or working environments of Shanghai, Please feel free to contact me!
 
 <img align="right" height="250" width="375" alt="" src="https://media.giphy.com/media/fedryX7dMGMe6lgqDm/giphy.gif" />
 
