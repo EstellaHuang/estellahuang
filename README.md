@@ -16,7 +16,7 @@ I'm a graduate student 🎓 in software engineering at the University of Califor
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/yx-hh).
 - 💬 &nbsp; Ask me about anything [here](https://github.com/yx-hh/yx-hh/issues/1)! I am happy to help.
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Java.
-- 📫 &nbsp; How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yuxin-huang-666lucky).
+- 📫 &nbsp; How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yx-hh).
 - 📝 &nbsp; Checkout my [Resume]().
 
 ### My Absolute Favorites:
