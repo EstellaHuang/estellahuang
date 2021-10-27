@@ -11,7 +11,7 @@ I'm a graduate student 🎓 in software engineering at the University of Califor
 
 ### 🧐 More About Me:
 
-- 🛠 &nbsp; I’m currently working with Java, Springboot, Mybatis, <br /> Maven, Redis, Elasticsearch, etc.
+- 🛠 &nbsp; I’m currently working with Java, Springboot, Mybatis, <br /> Maven, Redis, Elasticsearch, RabbitMQ, etc.
 - 🚀 &nbsp; I’m currently learning Backend Software Development.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/yx-hh).
 - 💬 &nbsp; Ask me about anything [here](https://github.com/yx-hh/yx-hh/issues/1)! I am happy to help.
