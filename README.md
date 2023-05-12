@@ -4,9 +4,10 @@
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://yx-hh.github.io/)
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=yx-hh/yx-hh&style=flat-square&color=0088cc)
+I was a graduate student 🎓 of Software Engineering at the University of California, Irvine 🏛 and graduated in Dec 2022!
 
-I am a graduate student 🎓 of Software Engineering at the University of California, Irvine 🏛 and will graduate at Dec, 2022!
-- This summer, I worked at Meta as a software engineer intern for the Flow team. Flow is Facebook's popular open-source project used for JavaScript syntax checking, I was responsible for programming to upgrade flow from a standalone service to a distributed one by functional programming language -Ocaml in order to improve the checking speed and increase JavaScript Developers' working efficiency. 
+- Now I work at UCI education school as a full-stack software engineer and am responsible for ChatGPT-based story weaver for children.
+- Last summer, I worked at Meta as a software engineer intern for the Flow team. Flow is Facebook's popular open-source project used for JavaScript syntax checking, I was responsible for programming to upgrade flow from a standalone service to a distributed one by functional programming language -Ocaml in order to improve the checking speed and increase JavaScript Developers' working efficiency. 
 - I have more than 3 years in real working environments as a senior software engineer in Shanghai, China, and have rich experience in java back-end development. I specialized in middleware such as Redis, RabbitMQ, and Concurrent programming. 
 - I once participated in building complex systems, with R&D experience in large-scale projects such as CAF which provided a fundamental development framework for over 2000 DEV teams. 
 - I also have the experience of mentoring interns and leading a small team with 2~3 people to develop a distributed Springboot project such as Document Search Service. So I am familiar with how to cooperate with teammates, how to figure out difficult questions, how to negotiate with product managers, and how to lead a small team. 
