@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yx-hh)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://yx-hh.github.io/)
 
-### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=yx-hh/yx-hh&style=flat-square&color=0088cc)
+### Glad to see you here! &nbsp; ![](https://komarev.com/ghpvc/?username=yx-hh)
 I was a graduate student 🎓 of Software Engineering at the University of California, Irvine 🏛 and graduated in Dec 2022!
 
 - Now I am actively looking for a software engineer job, especially in backend and full stack development!
