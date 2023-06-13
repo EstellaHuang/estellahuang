@@ -60,7 +60,7 @@ Before pursuing my master's degree, I worked for over 3 years in Shanghai, China
 </table> -->
 	
 <div>
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=yx-hh&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+<!-- <img height="160em" src="https://github-readme-stats.vercel.app/api?username=yx-hh&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> -->
 <img height="160em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=yx-hh&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </div>	
 <br/>
